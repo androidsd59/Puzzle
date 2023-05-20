@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Quebra-cabeça</string>
+    <string name="success">Parabéns!</string>
+    <string name="next">Desbloqueie novos níveis com sucesso! !</string>
+    <string name="restart">Reiniciar?</string>
+    <string name="ok">Clara(o)</string>
+    <string name="exit">Desistir</string>
+    <string name="complete">Você é um gênio, parabéns! !</string>
+    <string name="tips">Pontas</string>
+</resources>

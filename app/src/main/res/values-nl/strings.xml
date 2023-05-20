@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Puzzel</string>
+    <string name="success">Gefeliciteerd!</string>
+    <string name="next">Ontgrendel met succes nieuwe niveaus! !</string>
+    <string name="restart">Herstarten?</string>
+    <string name="ok">Zeker</string>
+    <string name="exit">Ontslag nemen</string>
+    <string name="complete">Je bent een genie, gefeliciteerd! !</string>
+    <string name="tips">Tips</string>
+</resources>

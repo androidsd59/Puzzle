@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">パズル</string>
+    <string name="success">おめでとう！</string>
+    <string name="next">新しいレベルのロックを解除しましょう！ ！</string>
+    <string name="restart">再起動？</string>
+    <string name="ok">もちろん</string>
+    <string name="exit">やめる</string>
+    <string name="complete">あなたは天才です、おめでとうございます! ！</string>
+    <string name="tips">チップ</string>
+</resources>

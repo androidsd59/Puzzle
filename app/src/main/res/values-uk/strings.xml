@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Головоломка</string>
+    <string name="success">Щиро вітаю!</string>
+    <string name="next">Успішно відкривайте нові рівні! !</string>
+    <string name="restart">Перезапустити?</string>
+    <string name="ok">Звичайно</string>
+    <string name="exit">Вийти</string>
+    <string name="complete">Ви геній, вітаємо! !</string>
+    <string name="tips">Поради</string>
+</resources>

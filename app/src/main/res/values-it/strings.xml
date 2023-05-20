@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Puzzle</string>
+    <string name="success">Congratulazioni!</string>
+    <string name="next">Sblocca con successo nuovi livelli! !</string>
+    <string name="restart">Ricomincia?</string>
+    <string name="ok">Sicura(o)</string>
+    <string name="exit">Esentata(o)</string>
+    <string name="complete">Sei un genio, complimenti! !</string>
+    <string name="tips">Suggerimenti</string>
+</resources>

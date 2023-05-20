@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Rompecabezas</string>
+    <string name="success">¡Felicidades!</string>
+    <string name="next">¡Desbloquea con éxito nuevos niveles! !</string>
+    <string name="restart">¿Reanudar?</string>
+    <string name="ok">Seguro</string>
+    <string name="exit">Abandonar</string>
+    <string name="complete">Eres un genio, felicidades! !</string>
+    <string name="tips">Consejos</string>
+</resources>
